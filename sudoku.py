@@ -1,3 +1,6 @@
+# This code requires an 81 character string with 0 representing blank spaces, right to left, top to bottom
+# run with "python sudoku.py 81-character-string"
+
 import sys
 
 def same_row(i,j): return (i/9 == j/9)
