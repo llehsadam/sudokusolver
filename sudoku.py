@@ -27,5 +27,5 @@ if __name__ == '__main__':
   else:
     print 'Usage: python sudoku.py puzzle'
     print '  where puzzle is an 81 character string 
-             representing the puzzle read left-to-right,
-             top-to-bottom, and 0 is a blank'
+             representing the sudoku read left-to-right
+             top-to-bottom with 0 being the blank spaces'
