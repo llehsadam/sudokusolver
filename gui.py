@@ -1,4 +1,6 @@
-# GUI.py
+# gui.py
+# requires pygame
+
 import pygame
 from solver import solve, valid
 import time
